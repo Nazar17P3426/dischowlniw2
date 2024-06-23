@@ -1,2 +1,2 @@
-# dischowlniw.exe
-My New Malware That i used BitBlt, PatBlt, PlgBlt, StretchBlt
+# dischowlniw
+C++ skidded GDI trojan by Hugopako
